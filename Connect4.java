@@ -1,5 +1,3 @@
-package ce326.hw3;
-
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
