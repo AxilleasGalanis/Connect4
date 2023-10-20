@@ -3,7 +3,7 @@ This is a connect 4 game made in Java using [MinMax with alpha-beta pruning algo
 
 ![Screenshot (140)](https://github.com/AxilleasGalanis/Connect-4/assets/130224323/7e5378dc-7123-4d7a-a8d6-f17b118032d2)
 
-# Functions
+# Features
 The horizontal menu shown in the figure has the following options.
 
 ● New Game: This menu is the starting point of a new game. By selecting it,
