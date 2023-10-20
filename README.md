@@ -1,5 +1,5 @@
 # Connect-4
-A connect 4 game made in Java using [MinMax with alpha-beta pruning algorithm](https://www.youtube.com/watch?v=l-hh51ncgDI). To run make sure to import the [org.json library](https://repo1.maven.org/maven2/org/json/json/20230227/json-20230227.jar).
+A connect 4 game made in Java using [MinMax with alpha-beta pruning algorithm](https://www.youtube.com/watch?v=l-hh51ncgDI). To run make sure to import the [org.json library](https://repo1.maven.org/maven2/org/json/json/20230227/json-20230227.jar). It features a user-friendly GUI created using Java Swing.
 
 ![Screenshot (140)](https://github.com/AxilleasGalanis/Connect-4/assets/130224323/7e5378dc-7123-4d7a-a8d6-f17b118032d2)
 
