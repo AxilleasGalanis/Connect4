@@ -28,3 +28,15 @@ at the top of the list. By double left clicking on any game, it also appears
 the canvas again. In this canvas the history of the selected game evolves.
 
 ● Help: The menu is disabled.
+
+
+# Compilation and Execution
+First of all download the the [org.json](https://repo1.maven.org/maven2/org/json/json/20230227/json-20230227.jar) library. Then
+compile the file using the command:
+```
+javac -cp .:filepath/to/json/file/json-simple-1.1.1.jar Connect4.java 
+```
+Execute the program using the command:
+```
+java -cp .:filepath/to/json/file/json-simple-1.1.1.jar Connect4.java 
+```
